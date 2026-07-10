@@ -30,6 +30,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0014-longest-common-prefix) |
+| [0035-search-insert-position](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0035-search-insert-position) |
 | [0200-number-of-islands](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0200-number-of-islands) |
 | [0704-binary-search](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0704-binary-search) |
 ## Trie
@@ -63,5 +64,6 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
