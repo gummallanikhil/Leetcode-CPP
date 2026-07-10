@@ -31,6 +31,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0014-longest-common-prefix) |
 | [0200-number-of-islands](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0200-number-of-islands) |
+| [0704-binary-search](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0704-binary-search) |
 ## Trie
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0796-rotate-string) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
