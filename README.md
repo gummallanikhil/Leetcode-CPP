@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
@@ -37,6 +38,7 @@
 | [0035-search-insert-position](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0200-number-of-islands) |
@@ -93,4 +95,5 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
