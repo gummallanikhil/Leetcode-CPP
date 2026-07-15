@@ -23,6 +23,7 @@
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
@@ -65,6 +66,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
@@ -120,11 +122,13 @@
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0102-binary-tree-level-order-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0102-binary-tree-level-order-traversal) |
 ## Dynamic Programming
