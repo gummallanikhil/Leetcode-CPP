@@ -62,10 +62,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0100-same-tree) |
 | [0200-number-of-islands](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0200-number-of-islands) |
 ## Union-Find
 |  |
@@ -108,4 +110,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0240-search-a-2d-matrix-ii) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
