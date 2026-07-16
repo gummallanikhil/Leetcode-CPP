@@ -1,29 +1,27 @@
-//Push root->left and root->right into a queue.
-// While the queue is not empty:
-// Pop two nodes.
-// If both are nullptr, continue.
-// If one is nullptr or their values are different, return false.
-// Push their children in mirror order:
-// left->left and right->right
-// left->right and right->left
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
 class Solution {
 public:
-    bool isSymmetric(TreeNode* root) {
-        if (!root) return true;
-        queue<TreeNode*> q;
-        q.push(root->left);
-        q.push(root->right);
-        while (!q.empty()) {
-            TreeNode* n1 = q.front(); q.pop();
-            TreeNode* n2 = q.front(); q.pop();
-            if (!n1 && !n2) continue;
-            if (!n1 || !n2 || n1->val != n2->val)
-                return false;
-            q.push(n1->left);
-            q.push(n2->right);
-            q.push(n1->right);
-            q.push(n2->left);
+    bool helper(TreeNode* root1, TreeNode* root2){
+        if(root1==nullptr || root2==nullptr){
+            return root1==root2;
         }
-        return true;
+        return (root1->val == root2->val) && helper(root1->left, root2->right)
+        && helper(root1->right, root2->left);
+    }
+    bool isSymmetric(TreeNode* root) {
+        if(root==nullptr){
+            return true;
+        }
+        return helper(root->left, root->right);
     }
 };
