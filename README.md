@@ -7,6 +7,7 @@
 | [0009-palindrome-number](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0189-rotate-array) |
 | [1903-largest-odd-number-in-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1903-largest-odd-number-in-string) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## String
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Trie
 |  |
 | ------- |
@@ -227,6 +229,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0410-split-array-largest-sum](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0410-split-array-largest-sum) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -253,4 +256,8 @@
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
