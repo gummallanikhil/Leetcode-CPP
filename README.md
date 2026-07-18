@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0189-rotate-array) |
+| [0258-add-digits](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0258-add-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1903-largest-odd-number-in-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## String
@@ -285,6 +286,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0258-add-digits) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Heap (Priority Queue)
 |  |
@@ -298,4 +300,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0451-sort-characters-by-frequency) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
