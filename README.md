@@ -83,6 +83,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Trie
 |  |
@@ -141,10 +142,12 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +156,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0240-search-a-2d-matrix-ii) |
 | [1260-shift-2d-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1260-shift-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## String Matching
 |  |
 | ------- |
@@ -177,6 +181,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sorting
 |  |
 | ------- |
@@ -307,6 +312,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0451-sort-characters-by-frequency) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bucket Sort
 |  |
 | ------- |
