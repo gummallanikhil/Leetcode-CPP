@@ -121,6 +121,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -138,6 +139,7 @@
 | [0200-number-of-islands](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0449-serialize-and-deserialize-bst) |
+| [0547-number-of-provinces](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -147,6 +149,7 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0547-number-of-provinces) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -327,4 +330,8 @@
 | [0258-add-digits](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1260-shift-2d-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
