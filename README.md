@@ -25,6 +25,7 @@
 | [0796-rotate-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1903-largest-odd-number-in-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
@@ -341,4 +342,8 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0547-number-of-provinces) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
