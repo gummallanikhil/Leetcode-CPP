@@ -26,6 +26,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +95,7 @@
 | [1901-find-a-peak-element-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Trie
 |  |
 | ------- |
@@ -199,6 +201,7 @@
 | [1539-kth-missing-positive-number](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -355,4 +358,8 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
+## Segment Tree
+|  |
+| ------- |
+| [3501-maximize-active-section-with-trade-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 <!---LeetCode Topics End-->
