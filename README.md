@@ -11,6 +11,7 @@
 | [0412-fizz-buzz](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1903-largest-odd-number-in-string) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## String
 |  |
 | ------- |
@@ -98,6 +99,7 @@
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Trie
 |  |
 | ------- |
@@ -378,6 +380,7 @@
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Segment Tree
 |  |
 | ------- |
@@ -391,4 +394,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0210-course-schedule-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
