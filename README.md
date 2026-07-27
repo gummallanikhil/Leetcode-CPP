@@ -101,6 +101,7 @@
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3693-climbing-stairs-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3693-climbing-stairs-ii) |
 ## Trie
 |  |
 | ------- |
@@ -315,6 +316,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3693-climbing-stairs-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3693-climbing-stairs-ii) |
 ## Prefix Sum
 |  |
 | ------- |
