@@ -419,6 +419,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting Sort
 |  |
