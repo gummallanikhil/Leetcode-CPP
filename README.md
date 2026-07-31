@@ -29,6 +29,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -44,6 +45,7 @@
 | [0860-lemonade-change](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Depth-First Search
 |  |
@@ -238,6 +241,7 @@
 | [0455-assign-cookies](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
 |  |
@@ -378,6 +382,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0451-sort-characters-by-frequency) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Simulation
 |  |
