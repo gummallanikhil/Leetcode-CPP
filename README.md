@@ -65,6 +65,7 @@
 | [0189-rotate-array](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0189-rotate-array) |
 | [0455-assign-cookies](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Array
 |  |
 | ------- |
@@ -109,6 +110,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -232,6 +234,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1901-find-a-peak-element-ii) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Sorting
@@ -244,6 +247,7 @@
 | [0455-assign-cookies](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0455-assign-cookies) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Divide and Conquer
@@ -334,6 +338,7 @@
 | [0678-valid-parenthesis-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3693-climbing-stairs-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3693-climbing-stairs-ii) |
 ## Prefix Sum
@@ -423,6 +428,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Counting Sort
@@ -446,4 +452,16 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0494-target-sum) |
+## Meet in the Middle
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Ordered Set
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+## Bitmask
+|  |
+| ------- |
+| [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
