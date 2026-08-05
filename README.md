@@ -168,6 +168,7 @@
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [3310-remove-methods-from-project](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -193,6 +194,7 @@
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -412,6 +414,7 @@
 | [0210-course-schedule-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0547-number-of-provinces) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3310-remove-methods-from-project](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/3310-remove-methods-from-project) |
 ## Enumeration
 |  |
 | ------- |
