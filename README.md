@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0205-isomorphic-strings) |
