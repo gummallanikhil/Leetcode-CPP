@@ -17,6 +17,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0205-isomorphic-strings) |
@@ -60,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0151-reverse-words-in-a-string) |
@@ -328,6 +330,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0120-triangle) |
@@ -470,4 +473,8 @@
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0583-delete-operation-for-two-strings) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/gummallanikhil/Leetcode-CPP/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
